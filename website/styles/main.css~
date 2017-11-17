@@ -1,0 +1,56 @@
+body
+{
+    background: #BDE;
+}
+.canvas
+{
+    width: 100%;
+    height: 100%;	       
+}
+.selector
+{
+    position: inherit;
+    margin: auto;
+    margin-top: 128px;
+    background: #DDD;
+    width: 480px;
+    height: 256px;
+    border-width: 8px;
+    border-color: #CCC;
+    border-style: solid;
+    border-radius: 16px;
+}
+.table
+{
+    margin: auto;
+    border-spacing: 8px;
+}
+.string
+{
+    position: relative;
+    top: 40px;
+}
+.button
+{
+    background: #CCC;
+    width: 360px;
+    height: 80px;
+    border-radius: 16px;
+}
+.button:hover
+{
+    background: #AAA
+}
+.flag
+{
+    vertical-align: middle;
+    margin-left: 12px;
+}
+.link
+{
+    margin-left: 48px;
+    color: #000;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: none;
+}
